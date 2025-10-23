@@ -3719,27 +3719,27 @@
 		)
 		(uuid "ead503ba-3abd-4179-a0e5-bbff7d412516")
 	)
-	(label "Elec58"
-		(at 191.77 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "017f4d7f-ac41-48f9-b9ee-69a1bd257d11")
-	)
 	(label "Elec62"
-		(at 191.77 132.08 0)
+		(at 179.07 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "0765f46c-8c5b-4309-8aca-2b4a6d3fb55a")
+		(uuid "0144f1f5-9c6a-45ee-ac9c-93c3e82baa7e")
 	)
-	(label "Elec59"
+	(label "Elec60"
+		(at 179.07 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "06ae5908-3306-41bd-85d9-476c2eb1e1f2")
+	)
+	(label "Elec55"
 		(at 91.44 82.55 180)
 		(effects
 			(font
@@ -3747,67 +3747,67 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "0daa0f18-12f9-49c9-bad4-d65e378da1fc")
+		(uuid "0bc20722-49e9-46df-9754-64bbbbc4e93c")
 	)
-	(label "Elec39"
-		(at 91.44 142.24 180)
+	(label "Elec46"
+		(at 179.07 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "10771d90-57ae-49f1-a4b8-162989b48666")
+		(uuid "15c0739c-6934-4b2f-b3f2-89d835aaf12a")
 	)
-	(label "Elec44"
-		(at 179.07 124.46 180)
+	(label "Elec6"
+		(at 91.44 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "130c9087-2237-4e24-af03-5c60bb9a5d58")
+		(uuid "1909301a-f75c-4a18-a472-65ff45133963")
 	)
-	(label "Elec38"
-		(at 116.84 142.24 0)
+	(label "Elec37"
+		(at 191.77 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "140b6e0f-5627-40ef-a800-5746ca4eab8c")
+		(uuid "1a60de13-26e0-48c8-9515-c858a6f14d71")
 	)
-	(label "Elec48"
-		(at 116.84 64.77 0)
+	(label "Elec1"
+		(at 191.77 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "17c25af1-4291-4b1a-bc70-3adf5b375ff8")
+		(uuid "1a998c61-352f-43a7-98bd-e05f5741f37a")
 	)
-	(label "Elec41"
-		(at 91.44 144.78 180)
+	(label "Elec42"
+		(at 91.44 139.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "199c12d2-f803-4435-80ad-2696e7315037")
+		(uuid "1b7e98bc-23e2-4c55-b849-a4c4be6fae27")
 	)
-	(label "Elec57"
-		(at 91.44 80.01 180)
+	(label "Elec63"
+		(at 191.77 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "1a70ebf2-76da-4a62-b575-8492cc9e6027")
+		(uuid "1cfb27b2-c3c6-40ce-9e70-c102cf781f74")
 	)
 	(label "Ref"
 		(at 116.84 36.83 0)
@@ -3819,6 +3819,16 @@
 		)
 		(uuid "1d320070-c0cd-4c25-a2ee-af2d24783add")
 	)
+	(label "Elec53"
+		(at 116.84 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d3aab11-9b4c-4992-bf64-5c47fe38867f")
+	)
 	(label "Ref"
 		(at 91.44 64.77 180)
 		(effects
@@ -3829,107 +3839,27 @@
 		)
 		(uuid "1e1f49a5-0240-4f10-a43c-42c6ef0a3a3f")
 	)
-	(label "Elec50"
-		(at 191.77 101.6 0)
+	(label "Elec29"
+		(at 191.77 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "20068755-151d-40ee-b4d1-9463008dc4a5")
+		(uuid "1f97db32-a422-436e-949f-aa11645846af")
 	)
-	(label "Elec24"
-		(at 116.84 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "235f8f34-6845-430d-b148-ddfcb5aaa61f")
-	)
-	(label "Elec4"
-		(at 116.84 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "23a55c6b-f873-4da3-8113-c1e65c9d1e94")
-	)
-	(label "Elec35"
-		(at 179.07 101.6 180)
+	(label "Elec58"
+		(at 91.44 149.86 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "25ed4435-2cb7-4420-98d6-b612f68cabb7")
+		(uuid "2448f2e7-92f9-401c-9d7e-bf0a941c0b50")
 	)
-	(label "Elec13"
-		(at 191.77 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "260544bb-37d4-412b-adc2-f5029f3db32e")
-	)
-	(label "Elec10"
-		(at 191.77 81.28 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2ad6ca47-d1cf-48f0-937b-143169c169d2")
-	)
-	(label "Elec39"
-		(at 179.07 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2edc8869-6c4b-4fa2-9cd9-f0168b2be533")
-	)
-	(label "Elec2"
-		(at 191.77 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2efc227e-72fa-4657-9f74-ecef8f2f6860")
-	)
-	(label "Elec35"
-		(at 116.84 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "302069ec-a9e7-43c1-92cf-fa006d112a47")
-	)
-	(label "Elec53"
-		(at 91.44 74.93 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "315e897c-f520-4b65-8dae-df0b499aeb03")
-	)
-	(label "Elec47"
+	(label "Elec62"
 		(at 91.44 152.4 180)
 		(effects
 			(font
@@ -3937,107 +3867,147 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "32169811-397f-422b-ad32-4d4c4b8cf1bf")
+		(uuid "26988159-d772-4e2c-a1db-69eeba8e6094")
 	)
-	(label "Elec52"
-		(at 191.77 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "347d574a-a8db-46be-8164-34c72650efea")
-	)
-	(label "Elec15"
-		(at 191.77 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "354e2b83-2507-4d7f-ac46-567fa3a6f45a")
-	)
-	(label "Elec59"
-		(at 191.77 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35b81fa3-f287-4733-8dfb-9c7d2f621608")
-	)
-	(label "Elec62"
-		(at 116.84 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "37a8d0b2-ef50-4ff2-a6cb-7a71e86c2fec")
-	)
-	(label "Elec58"
-		(at 116.84 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3ac1c7eb-25fb-4a8d-aeb1-c6dc1560f4d8")
-	)
-	(label "Elec46"
-		(at 116.84 152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3b3cdc7b-2841-415c-9c41-a995deb99449")
-	)
-	(label "Elec28"
-		(at 179.07 83.82 180)
+	(label "Elec29"
+		(at 91.44 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "3d6a64e1-d96d-45f9-8f2b-47610690a0be")
+		(uuid "2736b0d6-617d-4dd0-bb46-a83900ab2d82")
 	)
 	(label "Elec27"
-		(at 91.44 111.76 180)
+		(at 91.44 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "40c71e00-3ee0-40f9-afad-b58990aeabe2")
+		(uuid "27ca7424-e20e-45fe-801c-daa87be5b81b")
 	)
-	(label "Elec6"
-		(at 116.84 52.07 0)
+	(label "Elec12"
+		(at 179.07 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "27fd688e-5a61-4008-b3dd-29ebe52a2dea")
+	)
+	(label "Elec15"
+		(at 91.44 52.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28e345f3-0ce0-42f0-9c20-ff9f701491e6")
+	)
+	(label "Elec18"
+		(at 91.44 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2a5a2c51-aa32-4e18-a955-e2f0ffccddb0")
+	)
+	(label "Elec28"
+		(at 179.07 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d6d5963-8d8e-42fb-9009-3a5f84e91084")
+	)
+	(label "Elec47"
+		(at 91.44 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d8ec5d1-f96a-419c-8eaf-7b07092e6c81")
+	)
+	(label "Elec41"
+		(at 116.84 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "414cdbe1-c923-4b22-bec2-8b038f1a4004")
+		(uuid "33d49154-02b9-467f-a23c-9f6f04c4891a")
 	)
-	(label "Elec3"
-		(at 91.44 57.15 180)
+	(label "Elec54"
+		(at 179.07 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "42a02ea1-ed3f-41da-84e9-0472f57d4bd6")
+		(uuid "34375290-8cf7-4fd1-aba7-881bc6399c43")
+	)
+	(label "Elec63"
+		(at 91.44 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "36cee723-eb72-4092-8594-967e47b5406f")
+	)
+	(label "Elec51"
+		(at 91.44 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "38ff31a1-abd9-4372-8323-0a1673ce7982")
+	)
+	(label "Elec36"
+		(at 116.84 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3973b060-c760-407c-b112-37bea64be909")
+	)
+	(label "Elec59"
+		(at 191.77 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cd4dfac-2674-44da-b1bc-5a0aa65f794f")
+	)
+	(label "Elec38"
+		(at 116.84 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ebff414-686a-4098-8f3d-1e5fc55587a5")
 	)
 	(label "Istim"
 		(at 233.68 90.17 180)
@@ -4059,187 +4029,77 @@
 		)
 		(uuid "44812e9d-dd6b-4e4b-b0e0-1a299c8a4be2")
 	)
-	(label "Elec32"
-		(at 179.07 93.98 180)
+	(label "Elec42"
+		(at 179.07 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "44dcad7b-d34f-4963-8245-6d19bca6d50d")
+		(uuid "457f9e8a-0051-4340-8236-e712845a2e59")
 	)
-	(label "Elec1"
-		(at 191.77 58.42 0)
+	(label "Elec61"
+		(at 191.77 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "45eb82c2-5418-4f38-b625-e36006b7a1be")
+		(uuid "481e2663-7e63-49a9-8c3d-7bccda9b3a1c")
 	)
-	(label "Elec40"
-		(at 179.07 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "46443867-2478-47e1-9751-1c9a737bfce0")
-	)
-	(label "Elec41"
-		(at 179.07 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "486c1b18-3d64-4d7e-abd2-92308cb52697")
-	)
-	(label "Elec60"
-		(at 191.77 127 0)
+	(label "Elec34"
+		(at 116.84 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "48a723b3-0765-4426-96a7-6be7f0e00919")
-	)
-	(label "Elec50"
-		(at 116.84 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c3705ec-1583-425c-b71b-69e7d13f3925")
-	)
-	(label "Elec49"
-		(at 116.84 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c711c3f-a199-4a45-98f0-bf15eb18c1bb")
-	)
-	(label "Elec12"
-		(at 91.44 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4cdf8ea2-f946-42cd-842e-f45c71b0c51b")
-	)
-	(label "Elec21"
-		(at 91.44 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4e6037d8-104a-4f6e-a35a-ad1eda158a22")
-	)
-	(label "Elec40"
-		(at 116.84 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4e734fc0-a426-449b-b3f6-debf649119cf")
-	)
-	(label "Elec22"
-		(at 116.84 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4eaa2826-3416-41d9-b47d-e2351e5ae34f")
-	)
-	(label "Elec36"
-		(at 116.84 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4f152754-ff1f-4ff9-b8dd-6dece1c7f6f4")
-	)
-	(label "Elec45"
-		(at 179.07 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4f550945-f504-4bb7-9d95-9a409a9dec6c")
-	)
-	(label "Elec38"
-		(at 179.07 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5eb0abc5-dda5-4d56-83be-7d78dddb31ea")
+		(uuid "488d3dcd-1404-443f-aed7-a21469b5c5ae")
 	)
 	(label "Elec56"
-		(at 191.77 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5f8229c0-10d8-4ebb-8821-e31ad6928de2")
-	)
-	(label "Elec16"
-		(at 179.07 53.34 180)
+		(at 179.07 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "5fed8dfa-a0db-4ae5-8b7c-474faa3a904f")
+		(uuid "4c1f44d4-cff0-44c9-bc19-7dece0358069")
 	)
-	(label "Elec52"
-		(at 116.84 74.93 0)
+	(label "Elec31"
+		(at 91.44 36.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50a62a79-0461-44e5-aa6d-5a89bd4f54a8")
+	)
+	(label "Elec33"
+		(at 191.77 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "61340401-28a5-4cf5-8bee-664a0bf07871")
+		(uuid "52141aa5-b51a-408e-9002-efe6e5c8f1a8")
 	)
-	(label "Elec14"
-		(at 191.77 91.44 0)
+	(label "Elec51"
+		(at 191.77 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "635460d0-3a0d-44b3-b3ed-2d7c2a6a5981")
+		(uuid "53245afc-0248-4746-b1bf-6812243052c0")
 	)
-	(label "Elec36"
+	(label "Elec40"
 		(at 179.07 104.14 180)
 		(effects
 			(font
@@ -4247,79 +4107,29 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "66d39bbe-2354-43ce-8ba4-4de457654619")
+		(uuid "53fd41ee-0d8f-46cd-9e20-a734da0a4cc3")
 	)
-	(label "Elec11"
-		(at 191.77 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66f42043-b7e8-4a46-b827-a033756d5053")
-	)
-	(label "Elec7"
-		(at 191.77 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "69c12903-0f3b-4b34-8636-8bb05ce45fd7")
-	)
-	(label "Elec17"
-		(at 179.07 55.88 180)
+	(label "Elec10"
+		(at 179.07 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "6bacf1b8-9d16-4c70-b270-2058eb677cbf")
+		(uuid "54cd266c-9528-4485-9fc4-038364089f6d")
 	)
-	(label "Elec61"
-		(at 191.77 129.54 0)
+	(label "Elec57"
+		(at 116.84 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "6cc0fc51-c1b7-4d2c-8940-d682b85f70a1")
+		(uuid "5728ff99-5491-4d50-a19b-513ba6d3f5da")
 	)
-	(label "Elec26"
-		(at 116.84 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6ec323a5-c940-4ba4-96ad-bea9aa01246a")
-	)
-	(label "Elec3"
-		(at 191.77 63.5 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6f6b977f-70f0-46a6-aba2-7f6b05becaf1")
-	)
-	(label "Elec13"
-		(at 91.44 41.91 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7074455a-b8bb-4ce9-b72f-e9eaaa72fa49")
-	)
-	(label "Elec23"
+	(label "Elec14"
 		(at 179.07 71.12 180)
 		(effects
 			(font
@@ -4327,17 +4137,147 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "70d48e23-0222-41c9-b64b-025ff8397271")
+		(uuid "579b8b30-7c37-4eff-a64b-713786d21c00")
 	)
-	(label "Elec34"
-		(at 179.07 99.06 180)
+	(label "Elec60"
+		(at 116.84 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "59e0eed3-5514-470a-ab52-c9a9c7b34a6c")
+	)
+	(label "Elec57"
+		(at 191.77 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c0b3611-684e-4b4d-9ad4-bc338ff57b69")
+	)
+	(label "Elec45"
+		(at 191.77 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c43818c-ffe5-4a24-a86e-5725bc9ba433")
+	)
+	(label "Elec11"
+		(at 191.77 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5df0d939-599b-45ce-b679-3093fed5b07c")
+	)
+	(label "Elec23"
+		(at 191.77 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "619a60e5-2199-4707-8360-2d272c0cf9bc")
+	)
+	(label "Elec19"
+		(at 191.77 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6281081a-2665-46ad-aa72-6cf1db626930")
+	)
+	(label "Elec17"
+		(at 116.84 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "62ef761a-361f-4ae2-a387-9b6b51effc2d")
+	)
+	(label "Elec35"
+		(at 116.84 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "636a2df5-aba9-43d0-9deb-5535e408ef06")
+	)
+	(label "Elec58"
+		(at 179.07 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "70f18b66-3927-453f-9762-a87b999d754b")
+		(uuid "660244ca-8462-4614-a229-0dc5158bd4b1")
+	)
+	(label "Elec26"
+		(at 91.44 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "68c3c15c-96a8-4c2b-bf68-e96b53bb8d25")
+	)
+	(label "Elec28"
+		(at 91.44 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6941c3c3-fe9d-4409-abe4-c9bf2c3911e0")
+	)
+	(label "Elec35"
+		(at 191.77 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6dc9428d-adc8-406c-b44d-4e53d1c21944")
+	)
+	(label "Elec15"
+		(at 191.77 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f79d0ec-fd84-4743-80cb-c7696de2b39f")
+	)
+	(label "Elec48"
+		(at 116.84 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7226cfc8-0971-4305-8222-52cbd4988cf1")
 	)
 	(label "K0"
 		(at 233.68 85.09 180)
@@ -4349,65 +4289,45 @@
 		)
 		(uuid "72876826-803c-4094-803e-d360e20bbee1")
 	)
-	(label "Elec10"
-		(at 116.84 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "73c9f240-cd4c-47a2-b36f-085266f0d1c1")
-	)
-	(label "Elec43"
-		(at 91.44 147.32 180)
+	(label "Elec20"
+		(at 179.07 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "77e09fd9-abd9-4bfe-9489-c006f7436c86")
-	)
-	(label "Elec15"
-		(at 91.44 36.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7b52c230-0bd4-4caa-9f30-d3545cd7f5ee")
-	)
-	(label "Elec5"
-		(at 191.77 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7d9eb6a6-b50a-467b-82a5-61b41fac5bd9")
-	)
-	(label "Elec2"
-		(at 116.84 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7f1d4d79-7537-4bb9-8fed-ddb05344c46b")
+		(uuid "791f572a-7668-4c17-a052-52b800ca820b")
 	)
 	(label "Elec47"
-		(at 179.07 132.08 180)
+		(at 191.77 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7bae34aa-4b60-4dba-a362-bca75d15507d")
+	)
+	(label "Elec9"
+		(at 116.84 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ced3a59-1852-462f-8793-ae33cd45125f")
+	)
+	(label "Elec2"
+		(at 179.07 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "7feb9ef8-c69e-4a45-b1e7-1161febb4493")
+		(uuid "7d049e3b-d42c-4923-9c46-2b1a737053aa")
 	)
 	(label "Ref"
 		(at 91.44 129.54 180)
@@ -4419,57 +4339,57 @@
 		)
 		(uuid "801385a9-8293-4a5f-9aa2-a968eec62b89")
 	)
-	(label "Elec25"
-		(at 179.07 76.2 180)
+	(label "Elec23"
+		(at 91.44 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "82886db0-8fe1-40b4-bd9f-6a270a5baff4")
+		(uuid "8033dd0c-2a5b-4fcb-a830-849f9137e550")
 	)
-	(label "Elec55"
-		(at 91.44 77.47 180)
+	(label "Elec36"
+		(at 179.07 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "846eafc0-a613-49cc-a2fe-f59956780f7f")
+		(uuid "81b89c03-fc57-4c0e-95bf-73d448fba5d4")
+	)
+	(label "Elec50"
+		(at 179.07 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "82922e32-36dc-4dc1-869a-52ef4c3fe197")
+	)
+	(label "Elec2"
+		(at 91.44 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "834b5561-52f9-4619-b51a-90b40358539c")
+	)
+	(label "Elec20"
+		(at 116.84 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8474d793-8382-4f6c-9340-86f9f3361728")
 	)
 	(label "Elec30"
-		(at 91.44 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "85c7b6ea-efd1-4196-8896-972ee3141da0")
-	)
-	(label "Elec57"
-		(at 191.77 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "866fac37-7b4d-443f-9bad-5b5c98bd74c2")
-	)
-	(label "Elec4"
-		(at 191.77 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "88643eda-d6bd-4506-8860-0803754b2c9f")
-	)
-	(label "Elec31"
 		(at 179.07 91.44 180)
 		(effects
 			(font
@@ -4477,17 +4397,37 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "8b2092d6-00cb-4dc7-a616-38c899e3d3e6")
+		(uuid "84b8f38d-c510-4fa1-b407-f374fe5c439e")
 	)
-	(label "Elec7"
-		(at 91.44 52.07 180)
+	(label "Elec48"
+		(at 179.07 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "8e9fd375-bde3-4577-a56c-a091744a4cdf")
+		(uuid "8a47b079-431e-4eea-9c35-3f2136170c69")
+	)
+	(label "Elec46"
+		(at 91.44 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8dd721a4-a0b8-4a2e-a151-36f79d4d0944")
+	)
+	(label "Elec11"
+		(at 91.44 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8f2858a6-382f-4ed7-9584-6fac1ec13255")
 	)
 	(label "Vcoax"
 		(at 191.77 137.16 0)
@@ -4499,127 +4439,67 @@
 		)
 		(uuid "8f3f80d2-bb33-444e-8892-26e91de5ce22")
 	)
-	(label "Elec53"
-		(at 191.77 109.22 0)
+	(label "Elec9"
+		(at 191.77 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "9475bfcc-b936-4947-8963-0b5a25ba761a")
+		(uuid "8f98c43d-88da-4330-8e04-e64a22522ae2")
 	)
-	(label "Elec12"
-		(at 191.77 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "949692b6-42ff-4e85-882f-fc8bb10b8d78")
-	)
-	(label "Elec29"
-		(at 91.44 106.68 180)
+	(label "Elec54"
+		(at 91.44 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "95900de5-719e-4dcf-8963-549b633401a6")
-	)
-	(label "Elec31"
-		(at 91.44 101.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "959146f6-4b32-4d86-92a3-9165ee5211b1")
-	)
-	(label "Elec11"
-		(at 91.44 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "96aae803-cd99-4c10-b84f-68ec17e36dc7")
-	)
-	(label "Elec22"
-		(at 179.07 68.58 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "96f484f3-1fb7-4ce9-ae88-3184bd13b5df")
-	)
-	(label "Elec42"
-		(at 179.07 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "99d1f47d-a5ba-48f4-a2ca-1a5933b83c44")
+		(uuid "91b25bc3-ef5a-454d-939f-7ace9a6bca03")
 	)
 	(label "Elec44"
-		(at 116.84 149.86 0)
+		(at 116.84 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "a21de869-e5dd-44a4-bec6-6b629cf5cd9e")
+		(uuid "9339f8c4-147e-4bd7-8ccc-ca565c6d962e")
 	)
-	(label "Elec30"
-		(at 179.07 88.9 180)
+	(label "Elec32"
+		(at 179.07 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a3a4709a-edd8-4744-bd16-232b6ec880e5")
+		(uuid "945db802-8421-4ced-a874-07f78a21eb7b")
 	)
-	(label "Elec19"
-		(at 91.44 121.92 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a5e7d53d-e547-4df1-aa9c-39acf4de4860")
-	)
-	(label "Elec34"
-		(at 116.84 134.62 0)
+	(label "Elec33"
+		(at 116.84 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "a7245d6d-b4b2-42f2-95c6-04daf11b7b66")
+		(uuid "978b4df4-2ed5-447f-ab1a-0725e158c2fd")
 	)
-	(label "Elec1"
-		(at 91.44 59.69 180)
+	(label "Elec16"
+		(at 179.07 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a79404ac-33af-4058-9bf1-0f60d9494fa6")
+		(uuid "994c12a9-2d9b-41c3-ba35-ddb1bacfc968")
 	)
-	(label "Elec42"
+	(label "Elec52"
 		(at 116.84 147.32 0)
 		(effects
 			(font
@@ -4627,37 +4507,77 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "a84ac2a3-a2b5-4477-884b-600f95ecb96e")
+		(uuid "9bcc7d0e-bcf4-477b-9d85-d80c188f4e07")
 	)
-	(label "Elec25"
-		(at 91.44 114.3 180)
+	(label "Elec19"
+		(at 91.44 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "aa9dbbc6-d6d9-4f4f-a23b-b73a69e7912c")
+		(uuid "a169edc9-6f7c-4064-95c7-8bf151c72386")
 	)
-	(label "Elec37"
-		(at 91.44 139.7 180)
+	(label "Elec32"
+		(at 116.84 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a24c1d3a-e5c2-478c-912e-7ff7c5a8657b")
+	)
+	(label "Elec61"
+		(at 116.84 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a35f6fd4-daf7-46a4-8722-4695c4fe5a3c")
+	)
+	(label "Elec49"
+		(at 116.84 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3bae5a9-1276-4299-899d-d1106853d5d9")
+	)
+	(label "Elec10"
+		(at 91.44 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "abd9e48f-b9e7-414c-a63e-f2d04526855e")
+		(uuid "a42b9439-afd4-4d35-864b-3afa24bddfe9")
 	)
-	(label "Elec29"
-		(at 179.07 86.36 180)
+	(label "Elec12"
+		(at 116.84 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "ac5b9698-136b-4a92-9116-e0f6c9bb1496")
+		(uuid "a5639312-597c-4e74-bf98-76c9ae663979")
+	)
+	(label "Elec1"
+		(at 116.84 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac0ee6b6-afd2-4c50-9b7d-88948cea120b")
 	)
 	(label "Ref"
 		(at 116.84 101.6 0)
@@ -4669,75 +4589,145 @@
 		)
 		(uuid "ac832305-8ee4-4a09-8901-436cf5d31db2")
 	)
-	(label "Elec37"
-		(at 179.07 106.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ae914c6e-380c-4aca-9633-6ba2d70ad025")
-	)
-	(label "Elec45"
-		(at 91.44 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b60faccd-9d39-461e-925d-b2cec6195253")
-	)
-	(label "Elec8"
-		(at 191.77 76.2 0)
+	(label "Elec25"
+		(at 191.77 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "b77f8d76-fb82-4f9b-b7c8-fc10ddab0893")
+		(uuid "b1c0570c-3e61-4766-8839-dbef66fd4d83")
 	)
-	(label "Elec60"
-		(at 116.84 85.09 0)
+	(label "Elec16"
+		(at 116.84 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "b7b4eb8e-150d-4f82-8806-06d8d4fe46f6")
+		(uuid "b2b8855d-3581-4e57-9de1-af9718130f5e")
 	)
-	(label "Elec17"
-		(at 91.44 124.46 180)
+	(label "Elec0"
+		(at 179.07 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "b84c4671-e327-4dac-a828-b40722919fce")
+		(uuid "b34b5c1f-2d0a-4052-8aee-01b965111128")
 	)
-	(label "Elec46"
-		(at 179.07 129.54 180)
+	(label "Elec52"
+		(at 179.07 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c11edd28-b152-4100-96b5-e62cf06cd7e1")
+		(uuid "b6052613-30b8-41b1-9dd2-83f68b01753d")
 	)
-	(label "Elec63"
-		(at 91.44 87.63 180)
+	(label "Elec34"
+		(at 179.07 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c6b56cf9-7a68-4bb1-875b-f71877f51a73")
+		(uuid "b640f7d7-cc64-4591-a7ff-c257b5829c91")
+	)
+	(label "Elec40"
+		(at 116.84 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b75ae6b2-efa9-4228-9d7f-6c410c81e813")
+	)
+	(label "Elec26"
+		(at 179.07 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b8cdc6ee-e2e0-40fb-912d-2822077b4c7f")
+	)
+	(label "Elec22"
+		(at 179.07 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b985e957-416d-4e20-bde7-dd89decb727b")
+	)
+	(label "Elec41"
+		(at 191.77 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "baa189ba-db85-4e9b-aa6b-6673d674ff28")
+	)
+	(label "Elec18"
+		(at 179.07 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bede8d60-6c2e-4ed9-8eca-16f35c1ec824")
+	)
+	(label "Elec24"
+		(at 179.07 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0060b52-516c-4945-8424-e18aa9f79143")
+	)
+	(label "Elec13"
+		(at 116.84 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c369b3f4-6ccf-45ee-9788-6e61e7234191")
+	)
+	(label "Elec50"
+		(at 91.44 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c44bcd5b-47b7-4f94-9a1f-43a90928effa")
+	)
+	(label "Elec38"
+		(at 179.07 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c62103bb-fff7-40ff-9677-15ce915798e7")
 	)
 	(label "K1"
 		(at 233.68 82.55 180)
@@ -4749,45 +4739,35 @@
 		)
 		(uuid "c7bcfffc-ea4e-4823-a9f7-93318e045a60")
 	)
+	(label "Elec30"
+		(at 91.44 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cbd0136f-5d0f-4071-82d5-66a34fe44d44")
+	)
 	(label "Elec8"
-		(at 116.84 49.53 0)
+		(at 116.84 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c893cc1b-714d-4707-bf2d-65428c1acabd")
+		(uuid "cbd6f4ec-4578-49d5-bae4-7cb7b24dd6cd")
 	)
-	(label "Elec21"
-		(at 179.07 66.04 180)
+	(label "Elec6"
+		(at 179.07 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c9409c51-6f75-4007-af94-1d573e72b10f")
-	)
-	(label "Elec0"
-		(at 191.77 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cac1a707-42d8-4038-9df0-bc1978957b25")
-	)
-	(label "Elec33"
-		(at 179.07 96.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cd269bf2-25ea-4893-abd5-65ddb1ade30b")
+		(uuid "cd0f9359-b6e1-43e3-ac2a-7a9aa6e8a17c")
 	)
 	(label "Ref"
 		(at 233.68 95.25 180)
@@ -4799,15 +4779,15 @@
 		)
 		(uuid "cde5cba8-eb52-40ae-8599-387a6183c92d")
 	)
-	(label "Elec33"
-		(at 116.84 132.08 0)
+	(label "Elec37"
+		(at 116.84 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "ce261800-60a8-445b-8f30-8bc7158f27e1")
+		(uuid "cf6fe12c-9a26-463c-8091-d31a5a283d4d")
 	)
 	(label "Istim"
 		(at 179.07 50.8 180)
@@ -4819,6 +4799,26 @@
 		)
 		(uuid "cfba3179-994a-4a79-9bf1-4bf36f802fb3")
 	)
+	(label "Elec0"
+		(at 116.84 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfd260bc-be31-434a-b03d-1bd4746523d7")
+	)
+	(label "Elec56"
+		(at 116.84 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0e21db1-5841-446a-855d-db147cce715e")
+	)
 	(label "Vcoax"
 		(at 233.68 87.63 180)
 		(effects
@@ -4829,27 +4829,7 @@
 		)
 		(uuid "d1b7e6ce-b3e6-4d0e-8401-33352a3b6fd3")
 	)
-	(label "Elec27"
-		(at 179.07 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d2e97903-2378-4634-beda-6f014d2408d6")
-	)
-	(label "Elec19"
-		(at 179.07 60.96 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d32fde59-2423-43ae-a25f-a52620fdc36f")
-	)
-	(label "Elec51"
+	(label "Elec39"
 		(at 116.84 72.39 0)
 		(effects
 			(font
@@ -4857,37 +4837,77 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d4156a00-8cb3-449f-a0f7-065c0cc3e869")
+		(uuid "d381e546-a623-4e5a-be53-b3a405cc099d")
 	)
-	(label "Elec18"
-		(at 179.07 58.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d9d60d48-0e17-42bd-8a07-864e231924ac")
-	)
-	(label "Elec5"
-		(at 91.44 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "da6632b5-9757-46e5-9a25-c9aecb78f16c")
-	)
-	(label "Elec18"
-		(at 116.84 121.92 0)
+	(label "Elec53"
+		(at 191.77 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "daf3889e-bc8f-4eb6-ad81-dcc5863fac6c")
+		(uuid "d45a8613-2bdc-45d7-bd58-c27ecd6681be")
+	)
+	(label "Elec55"
+		(at 191.77 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d47c3ebe-0ce5-478a-8d44-49f83f299b6a")
+	)
+	(label "Elec59"
+		(at 91.44 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d5ed7486-25ad-4aee-9e5e-7f2614952e4c")
+	)
+	(label "Elec49"
+		(at 191.77 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d5f1c343-54e0-49c0-b856-140c5f28e8fb")
+	)
+	(label "Elec22"
+		(at 91.44 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d9576f88-6c78-4272-aa06-386bc79652b3")
+	)
+	(label "Elec31"
+		(at 191.77 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db8a0d54-ce6c-48de-be4f-b659335727c3")
+	)
+	(label "Elec7"
+		(at 91.44 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dcedc296-84bd-40fa-b84a-22c4846e62ff")
 	)
 	(label "Ref"
 		(at 191.77 53.34 0)
@@ -4899,37 +4919,87 @@
 		)
 		(uuid "dd0ed758-6798-4407-a6b4-b6a351fcb4c6")
 	)
-	(label "Elec63"
-		(at 191.77 134.62 0)
+	(label "Elec25"
+		(at 91.44 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "df79061f-1ce0-4e1a-9566-892eddb18257")
+	)
+	(label "Elec39"
+		(at 191.77 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "ddebf4c9-70a7-4098-a706-c7b845a6e51e")
+		(uuid "e0564c32-6d60-43e4-887f-7dc73145b9f4")
 	)
-	(label "Elec23"
-		(at 91.44 116.84 180)
+	(label "Elec45"
+		(at 116.84 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e1075e53-b364-49c2-997f-457340e71593")
+	)
+	(label "Elec4"
+		(at 116.84 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e1715a6e-a75d-4964-9f1a-3cb20646c2ce")
+	)
+	(label "Elec4"
+		(at 179.07 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "e37fe633-627b-4c56-94ee-8dc1a887db02")
+		(uuid "e2337c76-7f00-4536-a6c8-744739a1a797")
 	)
-	(label "Elec43"
-		(at 179.07 121.92 180)
+	(label "Elec44"
+		(at 179.07 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "e3947d86-657b-44aa-a434-b2ba8535a9b1")
+		(uuid "e36472e5-60db-43dc-be90-10bf8cd3bf27")
 	)
-	(label "Elec20"
+	(label "Elec24"
+		(at 91.44 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4bfb1d9-e526-42cf-9245-31d6c0027bd1")
+	)
+	(label "Elec21"
+		(at 191.77 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e707a499-f1aa-481e-8b3a-4fb6250e14f4")
+	)
+	(label "Elec8"
 		(at 179.07 63.5 180)
 		(effects
 			(font
@@ -4937,57 +5007,27 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "e786ce55-4e74-4e2d-aa0a-f19cd837f06e")
+		(uuid "e82c73b3-d35c-405a-9a83-210edfaf1cb6")
 	)
-	(label "Elec20"
-		(at 116.84 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8c561e0-9f0f-4821-a39f-adb0c1100b28")
-	)
-	(label "Elec54"
-		(at 191.77 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8d555f9-b7f5-4ea1-9914-1f710e086113")
-	)
-	(label "Elec6"
-		(at 191.77 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eac1223b-a240-4eee-91d0-f323f28363fe")
-	)
-	(label "Elec26"
-		(at 179.07 78.74 180)
+	(label "Elec43"
+		(at 91.44 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "eb77d6cc-bc4a-4b63-9e4c-d2fc411b8e16")
+		(uuid "ea54afe9-946d-422c-ac3d-dac9c97a90b0")
 	)
-	(label "Elec14"
-		(at 91.44 39.37 180)
+	(label "Elec17"
+		(at 191.77 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "eca1a658-130c-4b42-990a-9b021020f2cb")
+		(uuid "eac38b14-e273-4004-8f76-3e6026a6de99")
 	)
 	(label "K1"
 		(at 179.07 137.16 180)
@@ -4999,145 +5039,105 @@
 		)
 		(uuid "ecbb2622-b1a4-4ead-90a9-5e0bbdc59b74")
 	)
-	(label "Elec24"
-		(at 179.07 73.66 180)
+	(label "Elec3"
+		(at 191.77 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ee3496cf-d8c1-404b-8312-c8fc204a81e4")
+	)
+	(label "Elec43"
+		(at 191.77 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f06f5ca1-ede1-4d62-98d9-7bf2de50ba0a")
+	)
+	(label "Elec5"
+		(at 191.77 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1e34748-14dd-4660-ae29-7bf916da2054")
+	)
+	(label "Elec5"
+		(at 116.84 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1eab350-dd2d-42fd-b975-ea9fcd742ef1")
+	)
+	(label "Elec3"
+		(at 91.44 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "f07ac2e1-9b8a-45fc-9542-3841b11d2eb4")
+		(uuid "f27fa4a1-2730-45a7-8b17-ee3603aeadd0")
 	)
-	(label "Elec9"
-		(at 191.77 78.74 0)
+	(label "Elec21"
+		(at 116.84 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f0e19444-6c09-4d0d-b8f9-e7704ee272a9")
+		(uuid "f7a24642-6e40-43da-8017-9bef36bd8045")
 	)
-	(label "Elec28"
-		(at 91.44 109.22 180)
+	(label "Elec13"
+		(at 191.77 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f8b75f9e-5ff2-489c-8e4f-24695f16e020")
+	)
+	(label "Elec27"
+		(at 191.77 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9b17fc9-4610-4081-9f67-38b7048488fd")
+	)
+	(label "Elec14"
+		(at 91.44 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "f1e3724f-e3f6-4bde-b3c5-b88dfc9272de")
+		(uuid "fa6e1f90-11d2-4b29-84e9-32669f274cef")
 	)
-	(label "Elec54"
-		(at 116.84 77.47 0)
+	(label "Elec7"
+		(at 191.77 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f27974a7-6363-4c96-85ad-a8f29b9c8568")
-	)
-	(label "Elec56"
-		(at 116.84 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f2aa9a1c-1f9e-428d-886e-c8d82f87ea69")
-	)
-	(label "Elec61"
-		(at 91.44 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f3056744-01db-466f-9e21-1ed5fd2c63be")
-	)
-	(label "Elec51"
-		(at 191.77 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f357b1b6-2b34-4697-90bd-6569cc65996a")
-	)
-	(label "Elec0"
-		(at 116.84 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f4e1c713-701b-4fe0-890e-c0557240cd65")
-	)
-	(label "Elec9"
-		(at 91.44 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fa400a68-12e1-4a96-89e7-ead4b0e4e359")
-	)
-	(label "Elec16"
-		(at 116.84 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fa5fabdd-cc71-4091-9e9c-8f36204fce1a")
-	)
-	(label "Elec49"
-		(at 191.77 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fb16dd2e-66da-4dd6-b426-f116e5993866")
-	)
-	(label "Elec55"
-		(at 191.77 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fb699b79-f501-472f-a081-c588d60f6798")
-	)
-	(label "Elec32"
-		(at 116.84 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fb87de57-1b26-47fc-b2ca-006403d12716")
-	)
-	(label "Elec48"
-		(at 191.77 96.52 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ff56e89f-a255-451a-888f-16e74fdf8530")
+		(uuid "fef06e35-4488-4c0a-85d6-1c517bff5ba2")
 	)
 	(symbol
 		(lib_id "jonnew:xOLC-110-01-S-Q_1")
